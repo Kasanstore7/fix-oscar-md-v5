@@ -1,5 +1,5 @@
-
-const potion = 20000
+//Apalah
+const  potion = 20000
 const Spotion = 100 
 const Bdiamond = 100000
 const Sdiamond = 1000
